@@ -2,7 +2,7 @@
 
 Nací en Argentina y estoy terminando mi doctorado en Economía en la UBA 🎓
 Me encanta la Macroeconomia! 📊 Actualmente estoy trabajando en mi tesis sobre programas de estabilización de la inflación, desde el aspecto teórico como empírico 📉 
-Buscame en Google Scholar para mirar mis papers publicados! 📄
+Buscame en Google Scholar para conocer mi trabajo! 📄
 
 📚 Aprendí estadística en el grado y posgrado por lo que tengo una buena base de conocimiento en el área. Los últimos años fui explorando distintos lenguajes y métodos de identificación, siempre de manera muy autodidacta. 
 💻 Tengo conocimientos en Stata, Eviews, R y Python, que utilizo a menudo para hacer proyecciones económicas, análisis de datos o modelos econometricos.
@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 # Hi!👋 I am Flor 🌸
 
-I was born in Argentina and I am finishing my PhD in Economics at UBA 🎓 I love Macroeconomics! 📊 I am currently working on my thesis on inflation stabilization programs, from both theoretical and empirical aspects 📉 Search me on Google Scholar to look at my published papers! 📄
+I was born in Argentina and I am finishing my PhD in Economics at UBA 🎓 I love Macroeconomics! 📊 I am currently working on my thesis on inflation stabilization programs, from both theoretical and empirical aspects 📉 Search me on Google Scholar to look at my published contributions! 📄
 
 📚 I learned statistics in undergraduate and graduate so I have a good knowledge base in the area. The last few years I was exploring different languages and identification methods, always in a very self-taught way. 💻 I have knowledge in Stata, Eviews, R and Python, which I often use to make economic projections, data analysis or econometric models.
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 # Hallo!👋 Ich bin Flor 🌸
 
-Ich bin in Argentinien geboren und studiere ein PhD-Programm in Wirtschaftswissenschaften an der UBA 🎓 Ich liebe Makroökonomie 📊 Ich arbeite derzeit an meiner Dissertation über Inflationsstabilisierungsprogramme, sowohl unter theoretischen als auch empirischen Aspekten 📉 Suchen Sie mich auf Google Scholar, um meine veröffentlichten Arbeiten zu sehen. 📄
+Ich bin in Argentinien geboren und studiere ein PhD-Programm in Wirtschaftswissenschaften an der UBA 🎓 Ich liebe Makroökonomie 📊 Ich arbeite derzeit an meiner Dissertation über Inflationsstabilisierungsprogramme, sowohl unter theoretischen als auch empirischen Aspekten 📉 Suchen Sie mich auf Google Scholar, um meine veröffentlichten Arbeiten zu kennen. 📄
 
 📚  Ich habe in meinem Bachelor und Masterstudium Statistik gelernt und verfüge daher über eine gute Wissensbasis in diesem Bereich. In den letzten Jahren habe ich mich autodidaktisch mit verschiedenen Programmiersprachen und ökonometrischen Methoden auseinandergesetzt. 💻 Ich verfüge über Kenntnisse in Stata, Eviews, R und Python, die ich häufig verwende, um Wirtschaftsprognosen, Datenanalysen oder ökonometrische Modelle zu erstellen.
 
