@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 I was born in Argentina and I am finishing my PhD in Economics at UBA 🎓 I love Macroeconomics! 📊 I am currently working on my thesis on inflation stabilization programs, from both theoretical and empirical aspects 📉 Search me on Google Scholar to look at my published contributions! 📄
 
-📚 I learned statistics in undergraduate and graduate so I have a good knowledge base in the area. The last few years I was exploring different languages and identification methods, always in a very self-taught way. 💻 I have knowledge in Stata, Eviews, R and Python, which I often use to make economic projections, data analysis or econometric models.
+📚 I learned statistics at the undergraduate and graduate levels, so I have good fundamental knowledge. For the last few years, I have been exploring different languages and identification methods, always in a very self-taught way. 💻 I have knowledge in Stata, Eviews, R, and Python, which I often use to make economic projections, data analysis, or econometric models.
 
 In this GitHub I upload code produced by me, both related to my thesis and other research topics 📁 📑 I also like to share my journey in programming and data analysis so I usually attach my notes while learning. I usually use them as notes when I start programming, as quick reference material.
 
